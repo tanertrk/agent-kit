@@ -2,7 +2,7 @@
 
 A working personal AI agent for a manager who doesn't code — built on Claude Code, an Obsidian-style notes folder and plain Markdown. Running daily in a real restaurant operation since November 2026.
 
-**What it does:** morning briefings, unanswered-question alerts, end-of-day report checks, calendar ↔ task sync with reminders, inbox triage, document → action items, weekly scorecard with self-reflection, nightly local backup and ops metrics.
+**What it does:** morning briefings, unanswered-question alerts, end-of-day report checks, calendar ↔ task sync with reminders, Telegram alarms you can't overlook, inbox triage, document → action items, weekly scorecard with self-reflection, nightly local backup and ops metrics.
 
 ## Structure
 - `templates/` — `CLAUDE.md`, `SOUL.md`, `MEMORY.md`, `TASKS.md` to start your own agent
